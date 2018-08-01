@@ -1,0 +1,3 @@
+python-dateutil==2.7.3
+webargs==4.0.0
+retrying==1.3.3
